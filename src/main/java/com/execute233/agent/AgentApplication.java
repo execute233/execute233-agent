@@ -1,5 +1,6 @@
 package com.execute233.agent;
 
+import dev.langchain4j.model.chat.ChatModel;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.SpringBootConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

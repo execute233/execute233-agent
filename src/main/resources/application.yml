@@ -1,3 +1,12 @@
 spring:
   application:
     name: execute233-agent
+langchain4j:
+  community:
+    dashscope:
+      chat-model:
+        api-key:
+        model-name: qwen-max
+      embedding-model:
+        api-key:
+        model-name: text-embedding-v4
